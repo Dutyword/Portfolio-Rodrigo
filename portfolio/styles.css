@@ -1,0 +1,120 @@
+body
+{
+	color: #44d9e6;
+	margin:10;
+	padding:0;
+	background:#121837;
+	text-align:center;
+	font-size:22px;
+}
+
+nav ul
+{
+	font-size:22px;
+	list-style:none;
+	background-color:#385080;
+	text-align:center;
+	padding:0;
+	margin:0;
+}
+
+nav li
+{
+	font-family:'Oswald', sans-serif;
+	font-size:1.2em;
+	line-height:40px;
+	height:40px;
+	border-bottom:1px solid #888;
+}
+
+nav a
+{
+	text-decoration:none;
+	color:#44d9e6;
+	display:block;
+	transition:1s background-color;
+}
+
+nav a:hover
+{
+	background-color:#000;
+}
+
+nav a:focus
+{
+	background-color:#fff;
+	color:#444;
+	cursor:default;
+}
+
+
+.title
+{
+	color: #44d9e6;
+	text-align:center;	
+}
+
+.img
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link
+{
+	color:#44d9e6;
+}
+	
+#img1
+{
+	width:180px;
+	height:320px;	
+}
+
+#img2
+{
+	width:174px;
+	height:254px;
+	margin-top: 50px;	
+}
+
+#img3
+{
+	width:174px;
+	height:254px;
+	margin-top: 50px;	
+}
+
+#img4
+{
+	width:174px;
+	height:254px;
+	margin-top: 50px;	
+}
+
+#img5
+{
+	width:174px;
+	height:254px;
+	margin-top: 50px;	
+}
+
+#img6
+{
+	width:87px;
+	height:87px;	
+}
+
+#img7
+{
+	width:87px;
+	height:87px;
+	margin-top: 25px;
+}
+
+#coin-slider
+{
+    margin: auto;
+    width: 50%;
+}
